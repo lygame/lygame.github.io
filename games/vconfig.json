@@ -1,12 +1,12 @@
 {
-	"binary_version": "1.0.2",
-	"binary_version_test": "1.0.2",
-	"binary_url": "https://lygame.github.io/",
-	"asset_version": "0.0.1",
-	"asset_version_test": "0.0.2",
-	"asset_update_url": "https://lygame.github.io/",
-	"maintain": false,
-	"White_list": [
-		"0000-0000-0000-0000-0000-0000-0000-0000"
-	]
+    "binary_version": "1.0.2",
+    "binary_version_test": "1.0.2",
+    "binary_url": "https://lygame.github.io/",
+    "asset_version": "0.0.1",
+    "asset_version_test": "0.0.2",
+    "asset_update_url": "https://lygame.github.io/",
+    "maintain": false,
+    "White_list": [
+        "0000-0000-0000-0000-0000-0000-0000-0000"
+    ]
 }
