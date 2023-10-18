@@ -1,0 +1,388 @@
+{
+  "packageUrl": "https://lygame.github.io/games/gametest/v0.0.2",
+  "remoteManifestUrl": "https://lygame.github.io/games/gametest/project.manifest",
+  "remoteVersionUrl": "https://lygame.github.io/games/gametest/version.manifest",
+  "version": "0.0.2",
+  "assets": {
+    "assets/Audio/cc.config.json": {
+      "md5": "2B9C75192406AB78467C2882D1B87C7C",
+      "size": 233
+    },
+    "assets/Audio/index.js": {
+      "md5": "35D22B05ED14DFAD0F264BEE91AB7E2C",
+      "size": 606
+    },
+    "assets/Config/cc.config.json": {
+      "md5": "A27E4C7695862D8CB7A2FBDBDB955D25",
+      "size": 234
+    },
+    "assets/Config/index.js": {
+      "md5": "DADFAAFE117859057B94A5BCEFDF726B",
+      "size": 609
+    },
+    "assets/internal/cc.config.json": {
+      "md5": "ABCACD4CD2C2E2C388C4ACCE38560C56",
+      "size": 3625
+    },
+    "assets/internal/import/06/06740d68c.json": {
+      "md5": "FCAAEB6D2AE4017CF169BA16FDED8FAE",
+      "size": 2525987
+    },
+    "assets/internal/index.js": {
+      "md5": "5FEEF216A4E7772D5A63228A5A2C78EF",
+      "size": 615
+    },
+    "assets/main/cc.config.json": {
+      "md5": "E94C37B9F944928B0277B2F1CDECEC9C",
+      "size": 1470
+    },
+    "assets/main/import/03/0344cebf8.json": {
+      "md5": "2C138B94BE4E0A819027BBA78CA2D42F",
+      "size": 6249
+    },
+    "assets/main/import/0c/0c896755d.json": {
+      "md5": "9AE745D3657AD9CFEB698473D86BBA8F",
+      "size": 162
+    },
+    "assets/main/import/0e/0ef443047.json": {
+      "md5": "8EBDD05A620297DDE7CF15933D07D0DE",
+      "size": 250
+    },
+    "assets/main/import/fd/fd8ec536-a354-4a17-9c74-4f3883c378c8.json": {
+      "md5": "731F44A39CE9377EE6DE8BA34EDAF039",
+      "size": 480
+    },
+    "assets/main/index.js": {
+      "md5": "56EEB0207327A9689892479702D6890E",
+      "size": 19566
+    },
+    "assets/main/native/03/03650ffb-6fbb-4746-a459-0e5d57a4a822.png": {
+      "md5": "812A390B556B79841FDF737CFDF51455",
+      "size": 1823151
+    },
+    "assets/main/native/24/24a704da-2867-446d-8d1a-5e920c75e09d.png": {
+      "md5": "A4B5953DFFEB145B4B70072D91C4052B",
+      "size": 1140
+    },
+    "assets/main/native/6f/6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@40c10.png": {
+      "md5": "6F2AFF3DBB37BC738EF8702C01C4D4EE",
+      "size": 54213
+    },
+    "assets/main/native/6f/6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@74afd.png": {
+      "md5": "459F6C02BDA1CA98D67B78FF0522FF24",
+      "size": 54380
+    },
+    "assets/main/native/6f/6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@7d38f.png": {
+      "md5": "6A9DF37DC6828472BE7F24FB3D00C4FB",
+      "size": 6102
+    },
+    "assets/main/native/6f/6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@8fd34.png": {
+      "md5": "DABF1CEEF338870610B5B1CDA1373E6D",
+      "size": 57592
+    },
+    "assets/main/native/6f/6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@bb97f.png": {
+      "md5": "EA0B7072E5FBBA8A4B9BE3BEAF947842",
+      "size": 60699
+    },
+    "assets/main/native/6f/6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@e9a6d.png": {
+      "md5": "9E6582188657CB9B81E78D242207F431",
+      "size": 48101
+    },
+    "assets/main/native/9f/9fd900dd-221b-4f89-8f2c-fba34243c835.png": {
+      "md5": "D1118D133683BB4227D5E60C79C846B7",
+      "size": 1177
+    },
+    "assets/main/native/d0/d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@40c10.png": {
+      "md5": "D84770D9E64BFD9E61433C388E3BB6CA",
+      "size": 99071
+    },
+    "assets/main/native/d0/d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@74afd.png": {
+      "md5": "66393E5D36D7CAFBDBF594EB3E8627FA",
+      "size": 117874
+    },
+    "assets/main/native/d0/d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@7d38f.png": {
+      "md5": "A575781C30B0E25077099AB3A04E7E20",
+      "size": 35222
+    },
+    "assets/main/native/d0/d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@8fd34.png": {
+      "md5": "2B5B19B4EEA08E86A63BC65EBBB15A74",
+      "size": 103826
+    },
+    "assets/main/native/d0/d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@bb97f.png": {
+      "md5": "8000E42DFCF81024DAA91E8B2DAA26EF",
+      "size": 117218
+    },
+    "assets/main/native/d0/d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@e9a6d.png": {
+      "md5": "3645BA19643145ACFFF901B3E12137EB",
+      "size": 116066
+    },
+    "assets/Model/cc.config.json": {
+      "md5": "D24B51185AF58BE7B508EDBFAE2217AB",
+      "size": 233
+    },
+    "assets/Model/index.js": {
+      "md5": "78751F82D501BF5C2C8F182BE0CD44C9",
+      "size": 606
+    },
+    "assets/Shader/cc.config.json": {
+      "md5": "F4DFE535DE1FED02C07B3EC8A54035FB",
+      "size": 234
+    },
+    "assets/Shader/index.js": {
+      "md5": "7246297A94D0D98089FADF62973E2EE4",
+      "size": 609
+    },
+    "assets/Spine/cc.config.json": {
+      "md5": "764A7CB20F7B7749DC8D5507DBC0036C",
+      "size": 233
+    },
+    "assets/Spine/index.js": {
+      "md5": "FAB2FC1C92464E0FA26DAE9AAE9ADDFB",
+      "size": 606
+    },
+    "assets/UI/cc.config.json": {
+      "md5": "30CF4BFD68FB770608AD9A6F575FE473",
+      "size": 7222
+    },
+    "assets/UI/import/01/017058f83.json": {
+      "md5": "EB2B86ABB47FA016D70E705E619B1FC0",
+      "size": 18085
+    },
+    "assets/UI/import/01/01dc354e2.json": {
+      "md5": "22AE84C90A8DB5F6BF1123B693DD3ED8",
+      "size": 11319
+    },
+    "assets/UI/import/02/023191d9e.json": {
+      "md5": "AB9C10AD78251C5CA50DB72FC63BDC5E",
+      "size": 17371
+    },
+    "assets/UI/import/02/026f5b8a5.json": {
+      "md5": "DE0C918EC9A61D9D49053CCAA48DB92F",
+      "size": 13033
+    },
+    "assets/UI/import/03/03b0e7887.json": {
+      "md5": "23F3B57C4C6CC0B9446CB690F09A421C",
+      "size": 13791
+    },
+    "assets/UI/import/04/04f703233.json": {
+      "md5": "505ED1CF9AC4E29E474DDEAE1897FE5E",
+      "size": 11319
+    },
+    "assets/UI/import/05/05abbca09.json": {
+      "md5": "ED2ABCFC2A554159CC05D941A073AA9E",
+      "size": 16385
+    },
+    "assets/UI/import/06/06cd8463f.json": {
+      "md5": "548A384EC4720B4F545D5BA9FBED1850",
+      "size": 18088
+    },
+    "assets/UI/import/07/07183eae1.json": {
+      "md5": "4B3530E9748953F6BF7A0FDC32981F2A",
+      "size": 13396
+    },
+    "assets/UI/import/07/073bda323.json": {
+      "md5": "9D8784D9BA72DEE03F0514AE0BC6377A",
+      "size": 16476
+    },
+    "assets/UI/import/07/077f404c2.json": {
+      "md5": "FB9E083E5172E27A1026AE4ACBABA989",
+      "size": 12077
+    },
+    "assets/UI/import/07/07bc8dc9d.json": {
+      "md5": "780BFB183E070721B69103D003E45F5C",
+      "size": 17362
+    },
+    "assets/UI/import/07/07d198f35.json": {
+      "md5": "F0FF3C451580DE369CE8ABCEBDCA0E73",
+      "size": 11793
+    },
+    "assets/UI/import/09/0900427e1.json": {
+      "md5": "0F68B66F1C6256B54577F06AB69856A9",
+      "size": 20642
+    },
+    "assets/UI/import/09/09a005759.json": {
+      "md5": "3946AA663A673315689990D68768996B",
+      "size": 4092
+    },
+    "assets/UI/import/0a/0a2375897.json": {
+      "md5": "E1AB1898B7CF9554B41A85682AB4EDA1",
+      "size": 23892
+    },
+    "assets/UI/import/0c/0c595d0f1.json": {
+      "md5": "E46CA9C6FF20A059E2B53989D30B1898",
+      "size": 1762
+    },
+    "assets/UI/import/0c/0c69f7a21.json": {
+      "md5": "E63C0F2CB2EC9F1FDCCD9056025ADDCA",
+      "size": 17611
+    },
+    "assets/UI/import/0d/0dd0a4d8a.json": {
+      "md5": "6B4E7210D190679A8DB2A69A0F886B75",
+      "size": 14521
+    },
+    "assets/UI/import/0e/0efd45302.json": {
+      "md5": "12129A2B13C0837AEC0CE36DCAEE3DB3",
+      "size": 1065
+    },
+    "assets/UI/import/0f/0f7c40a7e.json": {
+      "md5": "55CC83A799FE1022988E6311ED539BA5",
+      "size": 19377
+    },
+    "assets/UI/import/0f/0fb4a3216.json": {
+      "md5": "BEC67B14EE2295ABCE2021BEDD4BD5E4",
+      "size": 12453
+    },
+    "assets/UI/index.js": {
+      "md5": "7D6C62071F676015553ED00199B0EE89",
+      "size": 597
+    },
+    "assets/UI/native/0c/0cdaf372-d680-42ce-944b-71b3702889c0.png": {
+      "md5": "5402011CCECF70059279123E2E256EA4",
+      "size": 16500
+    },
+    "assets/UI/native/0c/0cf4d513-5d95-4630-ba49-e13ab52c1252.png": {
+      "md5": "946B58A5BCFF7F710865AE2B5F5CAFEB",
+      "size": 24424
+    },
+    "assets/UI/native/16/167d6fd0-2e24-43e0-90d8-581be42a9052.png": {
+      "md5": "71A0AC723EC982399A028232D59A6470",
+      "size": 31985
+    },
+    "assets/UI/native/23/23bf10a5-da14-4a69-8aab-4955716ad511.png": {
+      "md5": "54311E608209730170A3F31E0CF3F337",
+      "size": 15639
+    },
+    "assets/UI/native/28/28a5e67c-fc2e-42e7-8116-a03d8d1a4da2.png": {
+      "md5": "B1B27C171B5124336961E5E959BDA4DD",
+      "size": 30747
+    },
+    "assets/UI/native/2b/2b4b3e52-d9d5-4c38-8e2e-ad875454809b.png": {
+      "md5": "0DC259BD9360744E9C6B11ED6B63A80D",
+      "size": 20815
+    },
+    "assets/UI/native/2e/2ed3759c-633f-491d-9984-db8196b6a3ca.png": {
+      "md5": "946B58A5BCFF7F710865AE2B5F5CAFEB",
+      "size": 24424
+    },
+    "assets/UI/native/2f/2f7969b0-aa20-42e1-aca1-02ab5ca5b08c.png": {
+      "md5": "7A4277F99A09573085901B988D2A655A",
+      "size": 21490
+    },
+    "assets/UI/native/33/33652e4a-6364-4bd9-8b20-35fe7891991b.png": {
+      "md5": "F03AA9D5D709E2FA16293C3D86B4B3A7",
+      "size": 1552
+    },
+    "assets/UI/native/37/37c8f083-7f8d-46f6-a4cf-02a58f4efa91.png": {
+      "md5": "7A7FCDE0F222518B2B108B30746169DD",
+      "size": 21878
+    },
+    "assets/UI/native/4a/4a225e5a-1d82-4497-b7e9-ffdd6bf246f2.png": {
+      "md5": "9426CFA3653C66E9F0BAE578D1B0EC7E",
+      "size": 16797
+    },
+    "assets/UI/native/4a/4a459e7b-6ee2-4a09-a9e4-38812810e7c0.png": {
+      "md5": "946B58A5BCFF7F710865AE2B5F5CAFEB",
+      "size": 24424
+    },
+    "assets/UI/native/4d/4d9b6146-6d8d-4fe3-8c9f-a5c775ff01eb.png": {
+      "md5": "6E822C540CCE194C2DA224C1ED476EDE",
+      "size": 20327
+    },
+    "assets/UI/native/63/63cb49bd-26a7-42c3-ac36-64e7bf4ff11b.png": {
+      "md5": "036E3A615335AEDA6206DCC6E6A442D1",
+      "size": 16842
+    },
+    "assets/UI/native/64/64a5a482-1037-44b1-a420-9df551ac5493.png": {
+      "md5": "54311E608209730170A3F31E0CF3F337",
+      "size": 15639
+    },
+    "assets/UI/native/69/69c6dfe8-7641-433a-9c03-e065ee73c122.png": {
+      "md5": "80451A8FE195A882FD71F587B95BD6C9",
+      "size": 27127
+    },
+    "assets/UI/native/79/7999e214-fc54-49aa-8351-dddf7c934da7.png": {
+      "md5": "946B58A5BCFF7F710865AE2B5F5CAFEB",
+      "size": 24424
+    },
+    "assets/UI/native/91/917fac20-0098-4e37-90fe-c9b37a6fcde9.png": {
+      "md5": "B91509FA9400A9D4A9A6233FBB3C0658",
+      "size": 21382
+    },
+    "assets/UI/native/93/931fac90-9be1-4a77-a7e3-cb30ca0e211a.png": {
+      "md5": "C3504AC18B31D0AEA78027085FD36217",
+      "size": 17310
+    },
+    "assets/UI/native/ab/ab12082b-a6ea-4cf3-83ec-c7f0f7bda47b.png": {
+      "md5": "0E85F287F7A5340BEE8A75330D3E6505",
+      "size": 18293
+    },
+    "assets/UI/native/b8/b811d2d9-d598-4253-b795-3c18671a09e1.png": {
+      "md5": "1A55A2635DAB77C18F7AA5A797776C75",
+      "size": 31423
+    },
+    "assets/UI/native/cc/cccbae45-d74b-448a-854f-c723e60b34d4.png": {
+      "md5": "42EE090FA7AB8D5E49E442AF7A98DEB2",
+      "size": 29591
+    },
+    "assets/UI/native/e1/e1daccc1-d37f-45ea-898d-036ecad92325.png": {
+      "md5": "2AFD1A3C759F0A1590C431114511B5A4",
+      "size": 16238
+    },
+    "assets/UI/native/e4/e4d4a4f2-89fc-45f1-9593-a99e3283121b.png": {
+      "md5": "4387008E55651AFE32C326DAE21421FD",
+      "size": 16200
+    },
+    "assets/Video/cc.config.json": {
+      "md5": "7BCC1CB31BB948F42D90A335BBF5C336",
+      "size": 233
+    },
+    "assets/Video/index.js": {
+      "md5": "51F67B23A9FC806D8AAE333ACFFDC67D",
+      "size": 606
+    },
+    "jsb-adapter/engine-adapter.js": {
+      "md5": "59CC8486AE133057A9F642F8A365FAA4",
+      "size": 138050
+    },
+    "jsb-adapter/web-adapter.js": {
+      "md5": "CF4A162BD7D9925A57DA50217ACEA2ED",
+      "size": 169978
+    },
+    "main.js": {
+      "md5": "EB75F8B792855313ECB81BFA43FD1881",
+      "size": 815
+    },
+    "src/application.js": {
+      "md5": "E86FDAC237D3FE20A6AA86CC74CE45D9",
+      "size": 1254
+    },
+    "src/chunks/bundle.js": {
+      "md5": "3BAB728C331ED475E9A1DC358009E7C4",
+      "size": 885
+    },
+    "src/cocos-js/cc.js": {
+      "md5": "58F0D42BDA2E83AC199760642D4555BB",
+      "size": 2178073
+    },
+    "src/cocos-js/instantiated-4d75666e.js": {
+      "md5": "C5E4A750E1C454EC5CB28A478A52CC58",
+      "size": 1374613
+    },
+    "src/cocos-js/wait-for-ammo-instantiation.js": {
+      "md5": "31C6AF9600A88BD233B5A6E85D8F2253",
+      "size": 147
+    },
+    "src/import-map.json": {
+      "md5": "498F3926FC713DEAB3E0AC6FCBB3D549",
+      "size": 111
+    },
+    "src/settings.json": {
+      "md5": "EB8A700EC409531109F2B88E7BB2A6AA",
+      "size": 28060
+    },
+    "src/system.bundle.js": {
+      "md5": "794A0DEB87693911C60AA2AB291C4AE3",
+      "size": 7829
+    }
+  }
+}
