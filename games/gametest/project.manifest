@@ -1,8 +1,8 @@
 {
-  "packageUrl": "https://lygame.github.io/games/gametest/v0.0.3",
-  "remoteManifestUrl": "https://lygame.github.io/games/gametest/project.manifest",
-  "remoteVersionUrl": "https://lygame.github.io/games/gametest/version.manifest",
-  "version": "0.0.3",
+  "packageUrl": "https://lygame-github-io.pages.dev/games/gametest/v0.0.4",
+  "remoteManifestUrl": "https://lygame-github-io.pages.dev/games/gametest/project.manifest",
+  "remoteVersionUrl": "https://lygame-github-io.pages.dev/games/gametest/version.manifest",
+  "version": "0.0.4",
   "assets": {
     "assets/Audio/cc.config.json": {
       "md5": "2B9C75192406AB78467C2882D1B87C7C",
@@ -53,8 +53,8 @@
       "size": 480
     },
     "assets/main/index.js": {
-      "md5": "80DB8D0A2CFA7513A2204ECD301A1AEE",
-      "size": 19897
+      "md5": "170DE6328733602417A49C6231E0954A",
+      "size": 19898
     },
     "assets/main/native/03/03650ffb-6fbb-4746-a459-0e5d57a4a822.png": {
       "md5": "23562BD2366BD09CF388624B0B919DAF",
