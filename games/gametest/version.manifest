@@ -1,6 +1,6 @@
 {
-  "packageUrl": "https://lygame.github.io/games/gametest/v0.0.2",
+  "packageUrl": "https://lygame.github.io/games/gametest/v0.0.3",
   "remoteManifestUrl": "https://lygame.github.io/games/gametest/project.manifest",
   "remoteVersionUrl": "https://lygame.github.io/games/gametest/version.manifest",
-  "version": "0.0.2"
+  "version": "0.0.3"
 }
