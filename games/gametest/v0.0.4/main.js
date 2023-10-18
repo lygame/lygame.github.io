@@ -1,4 +1,6 @@
-
+// hotupdate hook
+const storagePath = jsb.fileUtils.getWritablePath() + "hotupdate";
+jsb.fileUtils.addSearchPath(storagePath, true);
 
 // SystemJS support.
 window.self = window;
