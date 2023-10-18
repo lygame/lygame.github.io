@@ -1,8 +1,8 @@
 {
-  "packageUrl": "https://lygame-github-io.pages.dev/games/gametest/v0.0.5",
+  "packageUrl": "https://lygame-github-io.pages.dev/games/gametest/v0.0.6",
   "remoteManifestUrl": "https://lygame-github-io.pages.dev/games/gametest/project.manifest",
   "remoteVersionUrl": "https://lygame-github-io.pages.dev/games/gametest/version.manifest",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "assets": {
     "assets/Audio/cc.config.json": {
       "md5": "2B9C75192406AB78467C2882D1B87C7C",
