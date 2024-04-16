@@ -1,0 +1,15 @@
+{
+  "app_closed": false,
+  "app_maintain": false,
+  "binary_version": "1.0.1",
+  "binary_version_test": "1.0.1",
+  "binary_store_url": "",
+  "binary_url": "",
+  "asset_version": "0.0.1",
+  "asset_version_test": "0.0.1",
+  "white_list": [
+    "0000-0000-0000-0000-0000-0000-0000-0000",
+    "0000-0000-0000-0000-0000-0000-0000-0000",
+    "0000-0000-0000-0000-0000-0000-0000-0000"
+  ]
+}
