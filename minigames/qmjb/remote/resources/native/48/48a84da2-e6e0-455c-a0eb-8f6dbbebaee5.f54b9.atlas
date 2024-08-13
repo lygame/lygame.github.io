@@ -1,0 +1,20 @@
+
+o-no_net.png
+size: 81,79
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+123123
+  rotate: false
+  xy: 0, 33
+  size: 81, 46
+  orig: 81, 46
+  offset: 0, 0
+  index: -1
+1231233
+  rotate: true
+  xy: 0, 12
+  size: 19, 56
+  orig: 19, 56
+  offset: 0, 0
+  index: -1
