@@ -1,0 +1,39 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "lang",
+    "deps": [],
+    "uuids": [
+        "9517c83e-c0d7-48f6-807b-af66afa4f7db",
+        "bce9e486-2b14-4387-aaaa-f086e43db9e4",
+        "e94a2400-855d-4a48-8604-bbd5b12cf5b3"
+    ],
+    "paths": {
+        "9517c83e-c0d7-48f6-807b-af66afa4f7db": [
+            "Cn",
+            "cc.TextAsset",
+            1
+        ],
+        "bce9e486-2b14-4387-aaaa-f086e43db9e4": [
+            "En",
+            "cc.TextAsset",
+            1
+        ],
+        "e94a2400-855d-4a48-8604-bbd5b12cf5b3": [
+            "Zh_tw",
+            "cc.TextAsset",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {},
+    "versions": {
+        "import": [],
+        "native": []
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}

@@ -1,0 +1,70 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "main",
+    "deps": [],
+    "uuids": [
+        "01a3a7f2b",
+        "031c99b52",
+        "0a1dfff9-35db-4613-97c7-d23f0909c5c7",
+        "1a7d2a24-0dde-49db-97fd-375d62ed328d",
+        "1a7d2a24-0dde-49db-97fd-375d62ed328d@6c48a",
+        "1a7d2a24-0dde-49db-97fd-375d62ed328d@f9941",
+        "8ed11282-b351-4ba9-9023-5c24a586626e",
+        "9a5b9ffe-2f54-45bd-bfc9-d022a80e4e56",
+        "9a5b9ffe-2f54-45bd-bfc9-d022a80e4e56@6c48a",
+        "9a5b9ffe-2f54-45bd-bfc9-d022a80e4e56@f9941",
+        "9ede4d28-9f22-4599-a54f-32574ab8315b",
+        "9ede4d28-9f22-4599-a54f-32574ab8315b@6c48a",
+        "9ede4d28-9f22-4599-a54f-32574ab8315b@f9941",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "bfdf6eb0-ddfa-4bd4-8542-637c59fc2c89",
+        "bfdf6eb0-ddfa-4bd4-8542-637c59fc2c89@6c48a",
+        "bfdf6eb0-ddfa-4bd4-8542-637c59fc2c89@f9941",
+        "fd8ec536-a354-4a17-9c74-4f3883c378c8"
+    ],
+    "paths": {
+        "8ed11282-b351-4ba9-9023-5c24a586626e": [
+            "db:/assets/launch/scenes/MainScene",
+            "cc.SceneAsset",
+            1
+        ],
+        "fd8ec536-a354-4a17-9c74-4f3883c378c8": [
+            "db:/internal/default_renderpipeline/builtin-forward",
+            "cc.RenderPipeline",
+            1
+        ],
+        "ba21476f-2866-4f81-9c4d-6e359316e448": [
+            "db:/internal/physics/default-physics-material",
+            "cc.PhysicsMaterial",
+            1
+        ]
+    },
+    "scenes": {
+        "db://assets/launch/scenes/MainScene.scene": "8ed11282-b351-4ba9-9023-5c24a586626e"
+    },
+    "packs": {
+        "01a3a7f2b": [
+            "1a7d2a24-0dde-49db-97fd-375d62ed328d@6c48a",
+            "9a5b9ffe-2f54-45bd-bfc9-d022a80e4e56@6c48a",
+            "9ede4d28-9f22-4599-a54f-32574ab8315b@6c48a",
+            "bfdf6eb0-ddfa-4bd4-8542-637c59fc2c89@6c48a"
+        ],
+        "031c99b52": [
+            "0a1dfff9-35db-4613-97c7-d23f0909c5c7",
+            "1a7d2a24-0dde-49db-97fd-375d62ed328d@f9941",
+            "9a5b9ffe-2f54-45bd-bfc9-d022a80e4e56@f9941",
+            "9ede4d28-9f22-4599-a54f-32574ab8315b@f9941",
+            "bfdf6eb0-ddfa-4bd4-8542-637c59fc2c89@f9941"
+        ]
+    },
+    "versions": {
+        "import": [],
+        "native": []
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}

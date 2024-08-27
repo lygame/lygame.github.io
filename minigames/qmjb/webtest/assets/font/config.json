@@ -1,0 +1,142 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "font",
+    "deps": [
+        "resources"
+    ],
+    "uuids": [
+        "067cc3895",
+        "073a6c657",
+        "07c936c1f",
+        "09f15a909",
+        "15e62788-e36d-4407-9867-daba750a0d79",
+        "35a0abb8-4fb0-4608-92e1-244298595f68",
+        "7a2ea8ba-afbc-4d8b-96c8-01774d2b8cb1",
+        "81e91ff9-9ff4-4e1e-b3f8-d8e026a70fa1",
+        "81e91ff9-9ff4-4e1e-b3f8-d8e026a70fa1@6c48a",
+        "81e91ff9-9ff4-4e1e-b3f8-d8e026a70fa1@f9941",
+        "95472a58-ceca-4327-b8b5-79add0e31e6c",
+        "95472a58-ceca-4327-b8b5-79add0e31e6c@6c48a",
+        "95472a58-ceca-4327-b8b5-79add0e31e6c@f9941",
+        "bafadb05-8872-43a6-a115-ae35f9191a46",
+        "bd4a47cc-e6db-47dc-ac90-2678291ae887",
+        "d3f14570-dfd9-48cf-a704-f8c9d54f9321",
+        "f3f0d998-2b90-4536-bf93-ee7a2ad0d5ce",
+        "f3f0d998-2b90-4536-bf93-ee7a2ad0d5ce@6c48a",
+        "f3f0d998-2b90-4536-bf93-ee7a2ad0d5ce@f9941"
+    ],
+    "paths": {
+        "bd4a47cc-e6db-47dc-ac90-2678291ae887": [
+            "fix/AlibabaPuHuiTi-Bold",
+            "cc.TTFFont",
+            1
+        ],
+        "7a2ea8ba-afbc-4d8b-96c8-01774d2b8cb1": [
+            "fix/AlibabaPuHuiTi-Heavy",
+            "cc.TTFFont",
+            1
+        ],
+        "15e62788-e36d-4407-9867-daba750a0d79": [
+            "fix/AlibabaPuHuiTi-Medium",
+            "cc.TTFFont",
+            1
+        ],
+        "d3f14570-dfd9-48cf-a704-f8c9d54f9321": [
+            "lang/fnt/fnt_cn",
+            "cc.BitmapFont",
+            1
+        ],
+        "f3f0d998-2b90-4536-bf93-ee7a2ad0d5ce": [
+            "lang/fnt/fnt_cn_0",
+            "cc.ImageAsset",
+            1
+        ],
+        "f3f0d998-2b90-4536-bf93-ee7a2ad0d5ce@6c48a": [
+            "lang/fnt/fnt_cn_0/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "f3f0d998-2b90-4536-bf93-ee7a2ad0d5ce@f9941": [
+            "lang/fnt/fnt_cn_0/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "35a0abb8-4fb0-4608-92e1-244298595f68": [
+            "lang/fnt/fnt_en",
+            "cc.BitmapFont",
+            1
+        ],
+        "95472a58-ceca-4327-b8b5-79add0e31e6c": [
+            "lang/fnt/fnt_en_0",
+            "cc.ImageAsset",
+            1
+        ],
+        "95472a58-ceca-4327-b8b5-79add0e31e6c@6c48a": [
+            "lang/fnt/fnt_en_0/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "95472a58-ceca-4327-b8b5-79add0e31e6c@f9941": [
+            "lang/fnt/fnt_en_0/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "bafadb05-8872-43a6-a115-ae35f9191a46": [
+            "lang/fnt/fnt_tw",
+            "cc.BitmapFont",
+            1
+        ],
+        "81e91ff9-9ff4-4e1e-b3f8-d8e026a70fa1": [
+            "lang/fnt/fnt_tw_0",
+            "cc.ImageAsset",
+            1
+        ],
+        "81e91ff9-9ff4-4e1e-b3f8-d8e026a70fa1@6c48a": [
+            "lang/fnt/fnt_tw_0/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "81e91ff9-9ff4-4e1e-b3f8-d8e026a70fa1@f9941": [
+            "lang/fnt/fnt_tw_0/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {
+        "073a6c657": [
+            "81e91ff9-9ff4-4e1e-b3f8-d8e026a70fa1@6c48a",
+            "95472a58-ceca-4327-b8b5-79add0e31e6c@6c48a",
+            "f3f0d998-2b90-4536-bf93-ee7a2ad0d5ce@6c48a"
+        ],
+        "09f15a909": [
+            "35a0abb8-4fb0-4608-92e1-244298595f68",
+            "95472a58-ceca-4327-b8b5-79add0e31e6c@f9941"
+        ],
+        "067cc3895": [
+            "81e91ff9-9ff4-4e1e-b3f8-d8e026a70fa1@f9941",
+            "bafadb05-8872-43a6-a115-ae35f9191a46"
+        ],
+        "07c936c1f": [
+            "d3f14570-dfd9-48cf-a704-f8c9d54f9321",
+            "f3f0d998-2b90-4536-bf93-ee7a2ad0d5ce@f9941"
+        ]
+    },
+    "versions": {
+        "import": [],
+        "native": []
+    },
+    "redirect": [
+        "15e62788-e36d-4407-9867-daba750a0d79",
+        "0",
+        "7a2ea8ba-afbc-4d8b-96c8-01774d2b8cb1",
+        "0",
+        "bd4a47cc-e6db-47dc-ac90-2678291ae887",
+        "0"
+    ],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}
